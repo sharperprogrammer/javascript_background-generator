@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to right, red, yellow);
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+#colors {
+    /* margin: 0 auto; */
+    display: flex;
+    justify-content: center;
+}
+
+#colors input {
+    margin: 0.5rem;
+}
